@@ -12,7 +12,6 @@ if 5 > 2:
 들여쓰기를 건너뛰면 Python에서 오류가 발생한다.
 가장 일반적으로 사용되는 것은 4개이다.
 BUT 적어도 하나는 있어야 한다 !
-  예
 ```언어
   if 5 > 2:
  print("Five is greater than two!") 
